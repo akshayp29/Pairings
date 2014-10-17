@@ -19,7 +19,7 @@ The following cases are tested:
 4. 1 team with more than 2 people
 5. 2 teams with 2 people each
 
-The specific inputs that were presented is located in “Tests.txt” and the tested pickles are located in “/saved_pickles/”.
+The specific inputs that were presented is located in “Tests.txt” and the tested data are located in “/saved_data/”.
 
 # Comments
 
