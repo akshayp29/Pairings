@@ -1,0 +1,64 @@
+Test 1:
+2
+5
+The Beatles
+4
+paul@mccartney.org
+john@lennon.org
+george@harrison.org
+ringo@starr.org
+The Quarrymen
+3
+john@lennon.org
+paul@mccartney.org
+stu@sutcliffe.org
+Wings
+2
+paul@mccartney.org
+linda@mccartney.org
+Plastic Ono Band
+2
+john@lennon.org
+yoko@ono.org
+Traveling Wilburys
+3
+george@harrison.org
+tom@petty.org
+roy@orbison.org
+
+Test 2:
+2
+1
+Paul McCartney
+1
+paul@mccartney.org
+
+Test 3:
+2
+1
+Plastic Ono Band
+2
+john@lennon.org
+yoko@ono.org
+
+Test 4:
+2
+1
+The Beatles
+4
+paul@mccartney.org
+john@lennon.org
+george@harrison.org
+ringo@starr.org
+
+Test 5:
+2
+2
+Plastic Ono Band
+2
+john@lennon.org
+yoko@ono.org
+The Singing Duo
+2
+john@lennon.org
+paul@mccartney.org
